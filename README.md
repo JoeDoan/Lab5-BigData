@@ -15,8 +15,8 @@ Fill in what you included vs deferred.
 
 | Item | Included this week | Deferred |
 |---|---|---|
-| Dataset(s) |  |  |
-| Feature(s) |  |  |
+| Dataset(s) | User and Events sample dataset | Full-scale production database |
+| Feature(s) | Snowflake DB setup, Python Data Loader, Basic Streamlit App | Advanced ML models, Airflow orchestration |
 
 ## End-to-End Flow
 ```mermaid
@@ -53,12 +53,7 @@ streamlit run app/streamlit_app.py
 ```
 
 ## Extensions Completed
-- Extension 1:
-- Extension 2:
-- Extension 3: (if applicable)
+- Extension 1: Added the MASTER_CLAUSE table and implemented the JOIN query with our primary docs.
+- Extension 2: Created a Derived Analysis View (MASTER_CLAUSE_DATA) that cleans and prepares the contract data for the dashboard.
+- Extension 3: Enhanced our logging system to include Extra Logging Fields (tracking specific users and query types).
 
-## Demo Video Link
-- 
-
-## Notes / Bottlenecks
-- 
