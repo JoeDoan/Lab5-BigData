@@ -1,6 +1,5 @@
 # CS 5542 — Week 5 Snowflake Integration Starter
 
-Video demo: https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e151fae3-5363-4dec-8ce3-b4030001773e
 
 This starter kit provides a minimal, reproducible **Data → Snowflake → Query → App → Logging** pipeline.
 
